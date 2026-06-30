@@ -3,6 +3,11 @@
 ディフォルメされた都道府県別の日本地図SVG素材です。  
 都道府県ごとの `path` に、`data-code` と `data-name` を付与しています。
 
+
+## Preview
+
+![ディフォルメ都道府県日本地図](preview/deformed-japan-prefecture-map.png)
+
 ## Files
 
 - `svg/deformed-japan-prefecture-map.svg`  
